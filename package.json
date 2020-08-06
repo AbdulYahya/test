@@ -7,7 +7,6 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "@material-ui/icons": "^4.9.1",
     "chroma-js": "2.0.4",
     "classnames": "2.2.6",
     "gatsby-plugin-compile-es6-packages": "^1.1.0",
@@ -17,7 +16,7 @@
     "react-swipeable-views": "0.13.3"
   },
   "peerDependencies": {
-    "@material-ui/icons": "4.2.1",
+    "@material-ui/icons": "4.9.1",
     "@material-ui/core": ">=4.0.0",
     "@material-ui/styles": ">=4.0.0",
     "gatsby": ">=2.0.75",
