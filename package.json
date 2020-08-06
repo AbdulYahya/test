@@ -7,7 +7,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "@material-ui/icons": "4.2.1",
+    "@material-ui/icons": "^4.9.1",
     "chroma-js": "2.0.4",
     "classnames": "2.2.6",
     "gatsby-plugin-compile-es6-packages": "^1.1.0",
