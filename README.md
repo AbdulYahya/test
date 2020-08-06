@@ -1,2 +1,1 @@
-# test
-Created with CodeSandbox
+## Gatsby Theme Material Foundry
